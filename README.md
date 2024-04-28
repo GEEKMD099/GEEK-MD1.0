@@ -16,8 +16,10 @@
 <p align="center">
  <a href="https://chat.whatsapp.com/FRQiuFWlYJ3Jolx7OACtKo" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-https://wa.me/+237698046545?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+GEEK-md+Repo
  </a> 
+bref="<p align="center">
+  <a href="https://wa.me/+237698046545?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+GEEK-md+Repo" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
   
 ***Get [✨SCAN_QR_BOT✨](https://geek-qr-c6ccf7b7583e.herokuapp.com/) Scanner le code QR pour avoir la session. `WhatsApp > Appareil connecter`***
 
@@ -25,8 +27,6 @@ https://wa.me/+237698046545?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+GEEK-
 ***Cliquer sur  [FORK](https://github.com/GEEKMD099/GOJO-MD-1.0/fork)***
 
 
-  -      éé     
-        .
 N'oubliez pas de laisser une étoile⭐ pour pouvoir encouragé les développeurs.
 
 <div align="center">
