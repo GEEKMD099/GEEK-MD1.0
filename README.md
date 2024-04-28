@@ -1,25 +1,17 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines= ;+GEEK+MD+A+ETE;DÉVELOPPE+PAR+MR_LEGEEK." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=- ;+JE+suis+GEEK+MD; DÉVELOPPE+PAR;+MR_LEGEEK.." alt="Typing SVG" /></a>
 </p>
 <p align="center">
-  
-<p align="center">
-  <a src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
-<a href="https://chat.whatsapp.com/FRQiuFWlYJ3Jolx7OACtKo">
+  <a href="https://chat.whatsapp.com/FRQiuFWlYJ3Jolx7OACtKo">
     <img alt=Support height="550" src="https://telegra.ph/file/0d515dafc5188ddd5961a.jpg"> 
     </p>
-<h1 align="center"> 
+<h1 align="center"> -
 </h1>
-<p align="center"> 
+<p align="center"> -
 <p align="center">
- </a> 
-    <img alt="whatsapp Group" href="https://chat.whatsapp.com/FRQiuFWlYJ3Jolx7OACtKo" target="_blank">
+ <a href="https://chat.whatsapp.com/FRQiuFWlYJ3Jolx7OACtKo" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  </a> 
-"<p align="center">
-  <a "https://wa.me/+237698046545?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+GEEK-md+Repo" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
   
 ***Get [✨SCAN_QR_BOT✨](https://geek-qr-c6ccf7b7583e.herokuapp.com/) Scanner le code QR pour avoir la session. `WhatsApp > Appareil connecter`***
 
@@ -27,10 +19,12 @@ src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-
 ***Cliquer sur  [FORK](https://github.com/GEEKMD099/GOJO-MD-1.0/fork)***
 
 
+  -      éé     
+        .
 N'oubliez pas de laisser une étoile⭐ pour pouvoir encouragé les développeurs.
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=toge+Ops+One&size=50&pause=1000&color=1BBFDAFF&center=true&width=910&height=100&lines=;GEEK+MD+BY+MR_LEGEEK." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=toge+Ops+One&size=50&pause=1000&color=1BBFDAFF&center=true&width=910&height=100&lines=;TEAM -." alt="Typing SVG" /></a>
   </p>
 
 <br>
@@ -69,8 +63,8 @@ N'oubliez pas de laisser une étoile⭐ pour pouvoir encouragé les développeur
 
 |----|----|----|----|
 
-| [ℝ_](https://github.com/GEEKMD099) |
+| [Mr_LEEGEEK](https://github.com/GEEKMD099) |
 
 
 
-| ⭐ ℕ  ℝ_ ⭐ |
+| ⭐ DÉVELOPPEURS MR_LEGEEK ⭐ |
