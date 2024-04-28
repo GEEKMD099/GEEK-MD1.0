@@ -1,57 +1,70 @@
-# Zokou-2.0
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=- ;+ℂ+ℍℙℙ+;ℙℂ+; ℙℙℝ+ℙℝ+++." alt="Typing SVG" /></a>
+</p>
+<p align="center">
+  <a href="https://chat.whatsapp.com/FRQiuFWlYJ3Jolx7OACtKo">
+    <img alt=Support height="550" src="https://telegra.ph/file/0d515dafc5188ddd5961a.jpg"> 
+    </p>
+<h1 align="center"> -
+</h1>
+<p align="center"> -
+<p align="center">
+ <a href="https://chat.whatsapp.com/FRQiuFWlYJ3Jolx7OACtKo" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ </a> 
+  
+***Get [✨SCAN_QR_BOT✨](https://geek-qr-c6ccf7b7583e.herokuapp.com/) Scanner le code QR pour avoir la session. `WhatsApp > Appareil connecter`***
+
+
+***Cliquer sur  [FORK](https://github.com/GEEKMD099/GOJO-MD-1.0/fork)***
+
+
+  -      éé     
+        .
+N'oubliez pas de laisser une étoile⭐ pour pouvoir encouragé les développeurs.
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=toge+Ops+One&size=50&pause=1000&color=1BBFDAFF&center=true&width=910&height=100&lines=;TEAM -." alt="Typing SVG" /></a>
+  </p>
+
+<br>
+
+<h4 align="center"> Deploy on Replit
+</h4>
+
+<p align="center" >
+    <a href="https://repl.it/github/Denzo-MD/Denzo-MD-V3">
+    <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT" >
+    </a>
+</p>
+
+<p align="center" >
+    <br>
+    
+    
+</p>
+
+
+## ```HEROKU DEPLOYMENT```
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GEEKMD099/GEEK-MD-1.0)
 
 
 
-Zokou is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether managing files, interacting with stickers, or facilitating group management, Zokou is here to assist you.
-
-## Key Features
-
-- **File Download:** Zokou can download audio and video files from links you send, making it easy to share them with your contacts.
-
-- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to Zokou.
-
-- **Group Management:** Zokou offers group management features, such as adding or removing members, configuring rules, and other settings.
-
-- **Text to Img:** The best logos have been selected for your convenience.
-
-## Fun Features
-
-- **Jokes and Riddles:** Zokou comes with a collection of jokes and riddles to liven up your conversations.
-
-- **Inspiring Quotes:** Receive inspiring quotes to motivate you daily.
-
-## Get Zokou
-
-1. Click on **[Fork](https://github.com/Luffy2ndAccount/Zokou-english-v/fork)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
-
-2. Obtain a bot session: 
-
-   [Session-1](https://zokouscan-xbym.onrender.com) ; <br>
 
 
-3. Deploy
-   - **Heroku Deployment:**
-     1. If you don't have a **Heroku** account, click [**here**](https://id.heroku.com/login) to create one.
-     2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Luffy2ndAccount/Zokou-english-v) to deploy the bot on **Heroku**.
+## ```  :```
 
-## Contributions
+ 
 
-Contributions to Zokou are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+  <div align="center">
 
-   thinks to these persons ;
+ 
 
-   **Fatao** who added commands (Fancy, gpt, dalle, apk); <br>
+|----|----|----|----|
 
-   **CrazyPrice** who hosted a second website for the session_id;
+| [ℝ_](https://github.com/GEEKMD099) |
 
-## License
 
-The WhatsApp Bot Zokou is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the WhatsApp Bot Zokou to enhance your conversations and make your WhatsApp experience more interesting!
-
-## Developers:
-
-- [**Djalega++**](https://github.com/djalega8000/Zokou-MD/)
-- [**᚛M๏𝓷keℽ D Lบffy᚜**](https://github.com/Faouz995)
-
+| ⭐ ℕ  ℝ_ ⭐ |
