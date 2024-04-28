@@ -23,9 +23,9 @@
 ***cliqué sur [SESION_ID](https://geek-qr-c6ccf7b7583e.herokuapp.com/) Scanner le code QR pour avoir la session. ***
 
 
-***Cliquer sur  [FORK](https://github.com/GEEKMD099/GEEK-MD-1.0/fork)***
+***Cliquer sur  [FORK](https://github.com/GEEKMD099/GEEK-MD-1.0/fork)***`
     
-***SURTOUT n'oubliez pas de laisser une étoile⭐ pour pouvoir encouragé les développeurs.
+***SURTOUT n'oubliez pas de laisser une étoile⭐ pour pouvoir encouragé les développeurs.***'
 
 
  
