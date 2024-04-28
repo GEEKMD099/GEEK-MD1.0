@@ -9,7 +9,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
 
-RUN git clone https://github.com/GEEKMD099/GEEK-MD1.0git /root/geek-md
+RUN git clone https://github.com/GEEKMD099/GEEK-MD1.0 /root/geek-md
 WORKDIR /root/geek-md/
 p
 
