@@ -63,18 +63,7 @@
 
 ## ``` DÉVELOPPEUR```
 
- 
-
-## ``` OWNER```
-        [𝑺𝑳𝑮]
-
-href="https://wa.me/+237698046545?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+GEEK-md+Repo" target="_blank">
-
-  <div align="center">
-
- 
-
-|----|----|----|----|
+        
 
 | [Mr_LEEGEEK](https://github.com/GEEKMD099) |
 
