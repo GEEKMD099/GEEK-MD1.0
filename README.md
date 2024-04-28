@@ -20,7 +20,8 @@
   <a href="https://wa.me/+237698046545?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+GEEK-md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
   
-***cliqué sur [SESION_ID](https://geek-qr-c6ccf7b7583e.herokuapp.com/) Scanner le code QR pour avoir la session. ***
+***cliqué sur [SESION_ID](https://geek-qr-c6ccf7b7583e.herokuapp.com/) Scanner le code QR pour avoir la session. ***`
+    
 
 
 ***Cliquer sur  [FORK](https://github.com/GEEKMD099/GEEK-MD-1.0/fork)***`
