@@ -2,10 +2,10 @@
   "name": "GEEK-MD",
   "version": "2.0.0",
   "description": "",
-  "main": "Geek.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node Geek.js",
+    "s": "node index.js",
     "Geek": "pm2 start index.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
