@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
 │   *Plateforme* : ${os.platform()}
 │   *Développer* : MR_LEGEEK
 │
-╰─────✧WA-BOT✧─────⦿ \n\n`;
+╰─────❂𝐆𝐊-𝐁𝐎𝐓❂─────⦿ \n\n`;
     
 let menuMsg = `
 👋 Hello ${nomAuteurMessage} 👋
@@ -56,20 +56,20 @@ let menuMsg = `
         menuMsg += `╭────《 ${cat} 》`;
         for (const cmd of coms[cat]) {
             menuMsg += `
-│ ${cmd}`;
+│● ${cmd}`;
         }
         menuMsg += `
-╰═════════════⊷ \n`
+╰═════════════❂ \n`
     }
 
     menuMsg += `
 ◇            ◇
-*»»————— 💻 —————««*
+*»⦿—————⦿ 💻 ⦿—————⦿«*
 "*pour utiliser une commande, insert ${prefixe} followed by the command_name."
  
     Powered by GEEK-MD
                                                 
-*»»————— 💻 —————««*
+*⦿»—————⦿ 💻 ⦿—————«⦿*
 `;
 
    var lien = mybotpic();
