@@ -20,13 +20,15 @@
   <a href="https://wa.me/+237698046545?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+GEEK-md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
   
-***cliqué sur [SESION_ID](https://geek-qr-c6ccf7b7583e.herokuapp.com/) Scanner le code QR pour avoir la session. `WhatsApp > Appareil connecter`***
+***cliqué sur [SESION_ID](https://geek-qr-c6ccf7b7583e.herokuapp.com/) Scanner le code QR pour avoir la session. `***
 
 
 ***Cliquer sur  [FORK](https://github.com/GEEKMD099/GEEK-MD-1.0/fork)***
     
-     
-#'''SURTOUT pas de laisser une étoile⭐ pour pouvoir encouragé les développeurs.
+     ## ``` SURTOUT pas de laisser une étoile⭐ pour pouvoir encouragé les développeurs.
+```
+
+ 
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=toge+Ops+One&size=50&pause=1000&color=1BBFDAFF&center=true&width=910&height=100&lines=;+GEEK+MD+BY+MR_LEGEEK;+BOT+TECH+INDUSTRIE." alt="Typing SVG" /></a>
