@@ -1,9 +1,9 @@
 {
-  "name":"Zokou-2.0",
-  "description":"bot whatsapp développé par djalega++",
+  "name":"geek-md",
+  "description":"bot whatsapp développé par Mr_LEGEEK",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://raw.githubusercontent.com/djalega8000/Zokou-2.0/main/Zokou.jpg",
-  "repository":"https://github.com/djalega8000/Zokou-2.0",
+  "logo":"https://telegra.ph/file/0d515dafc5188ddd5961a.jpg",
+  "repository":"https://github.com/GEEKMD099/GEEK-MD1.0",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"Zokou-MD",
+      "value":"GEEK-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.pinimg.com/736x/0a/70/6f/0a706f90d6a1fb39919aedfbb7fdd8d3.jpg",
+      "value":".https://telegra.ph/file/0d515dafc5188ddd5961a.jpg",
       "required":false
        
      },
