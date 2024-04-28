@@ -12,7 +12,7 @@
 </h1>
 <p align="center"> 
 <p align="center">
- </a> href="https://chat.whatsapp.com/FRQiuFWlYJ3Jolx7OACtKo" target="_blank">
+ </a> 
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  </a> 
 "<p align="center">
