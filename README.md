@@ -29,7 +29,7 @@
 N'oubliez pas de laisser une étoile⭐ pour pouvoir encouragé les développeurs.
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=toge+Ops+One&size=50&pause=1000&color=1BBFDAFF&center=true&width=910&height=100&lines=;TEAM -." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=toge+Ops+One&size=50&pause=1000&color=1BBFDAFF&center=true&width=910&height=100&lines=;GEEK+MD+BY+MR_LEGEEK+BOT+TECH+INDUSTRIE." alt="Typing SVG" /></a>
   </p>
 
 <br>
