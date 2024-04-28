@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=- ;+JE+suis+GEEK+MD; DÉVELOPPE+PAR;+MR_LEGEEK.." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=bonjour ;+JE+suis+GEEK+MD; DÉVELOPPE+PAR;+MR_LEGEEK.." alt="Typing SVG" /></a>
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/FRQiuFWlYJ3Jolx7OACtKo">
@@ -16,11 +16,9 @@
 ***Get [✨SCAN_QR_BOT✨](https://geek-qr-c6ccf7b7583e.herokuapp.com/) Scanner le code QR pour avoir la session. `WhatsApp > Appareil connecter`***
 
 
-***Cliquer sur  [FORK](https://github.com/GEEKMD099/GOJO-MD-1.0/fork)***
-
-
-  -      éé     
-        .
+***Cliquer sur  [FORK](https://github.com/GEEKMD099/GEEK-MD-1.0/fork)***
+    
+     
 N'oubliez pas de laisser une étoile⭐ pour pouvoir encouragé les développeurs.
 
 <div align="center">
@@ -53,7 +51,7 @@ N'oubliez pas de laisser une étoile⭐ pour pouvoir encouragé les développeur
 
 
 
-## ```  :```
+## ``` DÉVELOPPEUR```
 
  
 
@@ -67,4 +65,4 @@ N'oubliez pas de laisser une étoile⭐ pour pouvoir encouragé les développeur
 
 
 
-| ⭐ DÉVELOPPEURS MR_LEGEEK ⭐ |
+| ⭐  MR_LEGEEK ⭐ |
