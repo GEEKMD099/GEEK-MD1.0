@@ -25,7 +25,7 @@
 
 ***Cliquer sur  [FORK](https://github.com/GEEKMD099/GEEK-MD-1.0/fork)***
     
-      SURTOUT pas de laisser une étoile⭐ pour pouvoir encouragé les développeurs.
+***SURTOUT n'oubliez pas de laisser une étoile⭐ pour pouvoir encouragé les développeurs.
 
 
  
