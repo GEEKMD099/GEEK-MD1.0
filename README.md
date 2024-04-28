@@ -84,8 +84,6 @@
 
 
 
-## ``` DÉVELOPPEUR```
-
 
 
 
@@ -93,15 +91,11 @@
 
         
 
-| [Mr_LEEGEEK](https://github.com/GEEKMD099) |
+| [💻Mr_LEEGEEK💻](https://github.com/GEEKMD099) |
 
 
 
 
-
-
-
-| 💻 MR_LEGEEK 💻|
 
 
 
