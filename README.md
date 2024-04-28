@@ -37,7 +37,7 @@
 
 
 
-
+#---
 
 
 
@@ -81,14 +81,8 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GEEKMD099/GEEK-MD-1.0)
 ##  
 ---
-1. ***  .***
-2.  ***  .***
-3.  ***  .***
-4.  ***  .***
-5.  ***  ***
-6.  *** .***
-7.  
-##
+
+
 
 
 
