@@ -35,9 +35,7 @@
 
  
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=toge+Ops+One&size=50&pause=1000&color=1BBFDAFF&center=true&width=910&height=100&lines=;+𝐺𝑒𝑒𝑘+MD+𝐵Y+𝑀R_𝐿𝐸𝐺𝐸𝐸𝐾;+𝐵𝑂𝑇+𝑇𝐸𝐶𝐻+INDUSTRIE." alt="Typing SVG" /></a>
-  </p>
+
 
 <br>
 
@@ -83,6 +81,14 @@
 
 
 | 💻 MR_LEGEEK 💻|
+
+
+
+
+
+
+
+
  
 
 <div align="center">
