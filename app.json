@@ -1,5 +1,5 @@
 {
-  "name":"geek-md",
+  "name":"GEEK-md",
   "description":"bot whatsapp développé par Mr_LEGEEK",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/0d515dafc5188ddd5961a.jpg",
@@ -10,7 +10,7 @@
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":"#",
+      "value":".",
       "required":true
     },
     "AUTO_READ_STATUS":
