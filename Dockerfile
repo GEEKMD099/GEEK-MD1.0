@@ -10,7 +10,7 @@ RUN apt-get update && \
   rm -rf /var/lib/apt/lists/*
 
 RUN git clone https://github.com/GEEKMD099/GEEK-MD1.0git  /root/GEEK-MD
-WORKDIR /root/geek-md/
+WORKDIR /root/geekmd/
 
 
 COPY package.json .
