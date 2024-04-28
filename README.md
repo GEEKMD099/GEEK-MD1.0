@@ -10,14 +10,14 @@
 <a href="https://chat.whatsapp.com/FRQiuFWlYJ3Jolx7OACtKo">
     <img alt=Support height="550" src="https://telegra.ph/file/0d515dafc5188ddd5961a.jpg"> 
     </p>
-<h1 align="center"> -
+<h1 align="center"> 
 </h1>
-<p align="center"> -
+<p align="center"> 
 <p align="center">
  <a href="https://chat.whatsapp.com/FRQiuFWlYJ3Jolx7OACtKo" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  </a> 
-bref="<p align="center">
+"<p align="center">
   <a "https://wa.me/+237698046545?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+GEEK-md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
   
