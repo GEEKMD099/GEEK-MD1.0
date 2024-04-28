@@ -11,7 +11,7 @@ RUN apt-get update && \
 
 RUN git clone https://github.com/GEEKMD099/GEEK-MD1.0 /root/geek-md
 WORKDIR /root/geek-md/
-p
+
 
 COPY package.json .
 RUN npm install pm2 -g
