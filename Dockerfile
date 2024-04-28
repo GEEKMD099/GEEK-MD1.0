@@ -9,14 +9,14 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
 
-RUN git clone https://github.com/GEEKMD099/GEEK-MD1.0 /root/geek-md
+RUN git clone https://github.com/GEEKMD099/GEEK-MD1.0  /root/GEEK-MD
 WORKDIR /root/geek-md/
 
 
 COPY package.json .
 RUN npm install pm2 -g
 RUN npm install --legacy-peer-deps
-://
+
 COPY . .
 
 EXPOSE 5000
