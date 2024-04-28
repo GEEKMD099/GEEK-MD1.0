@@ -39,7 +39,7 @@
 
 
 ---
-***cliqué sur [SESION_ID](https://geek-qr-c6ccf7b7583e.herokuapp.com/) Scanner le code QR pour avoir la session.***`
+***cliqué sur [SESION_ID](https://queek-qr-paring-801a640d411a.herokuapp.com/) Scanner le code QR pour avoir la session si les options ne s'affichent pas attendre quelques minutes et actualisé la page.***`
     
 
 
