@@ -47,7 +47,7 @@ const  {addGroupToBanList,isGroupBanned,removeGroupFromBanList} = require("./bdd
 const {isGroupOnlyAdmin,addGroupToOnlyAdminList,removeGroupFromOnlyAdminList} = require("./bdd/onlyAdmin");
 //const //{loadCmd}=require("/framework/mesfonctions")
 let { reagir } = require(__dirname + "/framework/app");
-var session = conf.session.replace(/GEEK-MD-WHATSAPP-BOT;;;=>/g,"");
+var session = conf.session.replace(/Zokou-MD-WHATSAPP-BOT;;;=>/g,"");
 const prefixe = conf.PREFIXE;
 
 
@@ -134,9 +134,9 @@ setTimeout(() => {
             var servBot = idBot.split('@')[0];
             /* const dj='237620857930';
              const dj2='237693755398';
-             const luffy='237698046545'*/
-            /*  var superUser=[servBot,dj,dj2,luffy].map((s)=>s.replace(/[^0-9]/g)+"@s.whatsapp.net").includes(auteurMessage);
-              var dev =[dj,dj2,luffy].map((t)=>t.replace(/[^0-9]/g)+"@s.whatsapp.net").includes(auteurMessage);*/
+             const legeek='237698046545'*/
+            /*  var superUser=[servBot,dj,dj2,legeek].map((s)=>s.replace(/[^0-9]/g)+"@s.whatsapp.net").includes(auteurMessage);
+              var dev =[dj,dj2,legeek].map((t)=>t.replace(/[^0-9]/g)+"@s.whatsapp.net").includes(auteurMessage);*/
             const verifGroupe = origineMessage?.endsWith("@g.us");
             var infosGroupe = verifGroupe ? await zk.groupMetadata(origineMessage) : "";
             var nomGroupe = verifGroupe ? infosGroupe.subject : "";
@@ -157,16 +157,15 @@ setTimeout(() => {
             const dj = '237676247110';
             const dj2 = '237620857930';
             const dj3 = "237693755398";
-            const MR_LEGEEK ='237698046545';
+            const legeek = '237698046545';
             const sudo = await getAllSudoNumbers();
-            const superUserNumbers = [servBot, dj, dj2, dj3, MR_LEGEEK,
-conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
+            const superUserNumbers = [servBot, dj, dj2, dj3, legeek, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
             const allAllowedNumbers = superUserNumbers.concat(sudo);
             const superUser = allAllowedNumbers.includes(auteurMessage);
             
-            var dev = [dj, dj2,dj3,luffy].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
+            var dev = [dj, dj2,dj3,legeek].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t [][]...{Zokou-Md}...[][]");
+            console.log("\t [][]...{Geek-Md}...[][]");
             console.log("=========== Nouveau message ===========");
             if (verifGroupe) {
                 console.log("message provenant du groupe : " + nomGroupe);
@@ -287,7 +286,7 @@ function mybotpic() {
         
                                     if(msg === null || !msg ||msg === 'undefined') {console.log('Message non trouver') ; return } 
         
-                                await zk.sendMessage(idBot,{ image : { url : './media/deleted-message.jpg'},caption : `        😈Anti-delete-message😈\n Message from @${msg.key.participant.split('@')[0]}​` , mentions : [msg.key.participant]},)
+                                await zk.sendMessage(idBot,{ image : { url : './media/deleted-message.jpg'},caption : `        Anti-delete-message\n Message from @${msg.key.participant.split('@')[0]}` , mentions : [msg.key.participant]},)
                                 .then( () => {
                                     zk.sendMessage(idBot,{forward : msg},{quoted : msg}) ;
                                 })
@@ -379,7 +378,7 @@ function mybotpic() {
                         let stickerMess = new Sticker(data.url, {
                             pack: conf.NOM_OWNER,
                             type: StickerTypes.FULL,
-                            categories: ["🤩", "🎉"],
+                            categories: ["", ""],
                             id: "12345",
                             quality: 70,
                             background: "transparent",
@@ -429,10 +428,10 @@ function mybotpic() {
                                    // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
                                     const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                                     var sticker = new Sticker(gifLink, {
-                                        pack: 'GEEK-Md',
+                                        pack: 'Zoou-Md',
                                         author: conf.OWNER_NAME,
                                         type: StickerTypes.FULL,
-                                        categories: ['🤩', '🎉'],
+                                        categories: ['', ''],
                                         id: '12345',
                                         quality: 50,
                                         background: '#000000'
@@ -530,7 +529,7 @@ function mybotpic() {
                 pack: 'Zoou-Md',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
-                categories: ['🤩', '🎉'],
+                categories: ['', ''],
                 id: '12345',
                 quality: 50,
                 background: '#000000'
@@ -645,8 +644,8 @@ function mybotpic() {
                         cd.fonction(origineMessage, zk, commandeOptions);
                     }
                     catch (e) {
-                        console.log("😡😡 " + e);
-                        zk.sendMessage(origineMessage, { text: "😡😡 " + e }, { quoted: ms });
+                        console.log(" " + e);
+                        zk.sendMessage(origineMessage, { text: " " + e }, { quoted: ms });
                     }
                 }
             }
@@ -671,7 +670,7 @@ zk.ev.on('group-participants.update', async (group) => {
         const metadata = await zk.groupMetadata(group.id);
 
         if (group.action == 'add' && (await recupevents(group.id, "welcome") == 'on')) {
-            let msg = `⦿════⦿ ⦿ ⦿ ═════⦿ 
+            let msg = `╔════⦿⦿⦿═════⦿
 ║ welcome to new(s) member(s)
 ║ *New(s) Member(s) :*
 `;
@@ -682,8 +681,8 @@ zk.ev.on('group-participants.update', async (group) => {
             }
 
             msg += `║
-╚════⦿ ⦿ ⦿ ═════╝
-◇ *Descriptioon*   ◇
+╚════⦿⦿⦿═════⦿
+⦿ *Descriptioon*   ⦿
 
 ${metadata.desc}`;
 
@@ -822,7 +821,7 @@ ${metadata.desc}`;
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log("le bot est en ligne 🕸\n\n");
+                console.log("le bot est en ligne \n\n");
                 //chargement des commandes 
                 console.log("chargement des commandes ...\n");
                 fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
@@ -854,20 +853,20 @@ ${metadata.desc}`;
                 await activateCrons();
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
-                let cmsg = `╔════⦿ 
-║ 『𝑮𝑬𝑬𝑲-𝐌𝐃』
+                let cmsg = `╔════⦿
+║ 『-』
 ║    Prefix : [ ${prefixe} ]
 ║    Mode :${md}
 ║    Total Commandes : ${evt.cm.length}︎
-╚══════════════════⦿ 
+╚══════════════════⦿
 
-╔═════⦿ 
-⦿ 
+⦿═════⦿
+
 
  if there are somes error you can tell us :) 
- thanks you for choosing 𝑮𝑬𝑬𝑲 MD
+ thanks you for choosing geek MD
 
-⦿══════════════════⦿ `;
+⦿══════════════════⦿`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }
@@ -881,7 +880,7 @@ ${metadata.desc}`;
                     main();
                 }
                 else if (raisonDeconnexion === baileys_1.DisconnectReason.connectionLost) {
-                    console.log('connexion au serveur perdue 😞 ,,, reconnexion en cours ... ');
+                    console.log('connexion au serveur perdue  ,,, reconnexion en cours ... ');
                     main();
                 }
                 else if (raisonDeconnexion === baileys_1.DisconnectReason?.connectionReplaced) {
