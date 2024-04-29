@@ -6,18 +6,18 @@ const os = require("os");
 const moment = require("moment-timezone");
 const s = require(__dirname + "/../set");
 
-Zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
     let { cm } = require(__dirname + "/../framework//zokou");
     var coms = {};
     var mode = "public";
-    
+
     if ((s.MODE).toLocaleLowerCase() != "yes") {
         mode = "private";
     }
 
 
-    
+
 
     cm.map(async (com, index) => {
         if (!coms[com.categorie])
@@ -32,7 +32,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────⦿${s.BOT}⦿────◆
+╭────✧${s.BOT}✧────◆
 │   *Préfix* : ${s.PREFIXE}
 │   *Owner* : ${s.OWNER_NAME}
 │   *Mode* : ${mode}
@@ -41,62 +41,62 @@ const date = moment().format('DD/MM/YYYY');
 │   *Hour* : ${temps}
 │   *Mémoire* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │   *Plateforme* : ${os.platform()}
-│   *Développer* : 
-│  & _
-╰─────⦿GK-BOT⦿─────◆ \n\n`;
-    
+│   *Développer* : Djalega++ 
+│  & M๏𝓷keℽ D Lบffy
+╰─────✧WA-BOT✧─────◆ \n\n`;
+
 let menuMsg = `
- Hello ${nomAuteurMessage} 
+👋 Hello ${nomAuteurMessage} 👋
 
 *List of commands :*
 ◇                             ◇
 `;
 
     for (const cat in coms) {
-        menuMsg += `╭────⦿ ${cat} ⦿⊷`;
+        menuMsg += `╭────❏ ${cat} ❏`;
         for (const cmd of coms[cat]) {
             menuMsg += `
-╏⦿ ${cmd}`;
+│ ${cmd}`;
         }
         menuMsg += `
-╰═════════════⦿ \n`
+╰═════════════⊷ \n`
     }
 
     menuMsg += `
 ◇            ◇
-*⦿————— ⦿ —————⦿*
+*»»————— ★ —————««*
 "To use a command, insert ${prefixe} followed by the command_name."
  
-    Powered by Geek-MD
+    Powered by Zokou-MD
                                                 
-*»⦿————— ⦿ —————⦿*
+*»»————— ★ —————««*
 `;
 
    var lien = mybotpic();
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Geek-MD*, développé par Mrlegeek" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Zokou-MD*, développé par Djalega++" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
-        console.log(" Menu erreur " + e);
-        repondre(" Menu erreur " + e);
+        console.log("🥵🥵 Menu erreur " + e);
+        repondre("🥵🥵 Menu erreur " + e);
     }
 } 
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Geek-MD*, développé par Mrlegeek" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Zokou-MD*, développé par Djalega++" }, { quoted: ms });
     }
     catch (e) {
-        console.log(" Menu erreur " + e);
-        repondre(" Menu erreur " + e);
+        console.log("🥵🥵 Menu erreur " + e);
+        repondre("🥵🥵 Menu erreur " + e);
     }
 } 
 else {
-    
+
     repondre(infoMsg + menuMsg);
-    
+
 }
 
 });
